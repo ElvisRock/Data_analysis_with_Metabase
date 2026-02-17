@@ -1,6 +1,8 @@
 # Data analysis with Metabase
 
-### The goal was to explore and learn about this incredible tool.
+### **Target:** The goal was to explore and learn about this incredible tool.
+
+_13/06/2024_
 
 <img width="989" height="566" alt="Screenshot 2026-02-17 at 11 19 57 AM" src="https://github.com/user-attachments/assets/1e4f20cb-b8e8-4bcd-a937-ab598b141bbf" />
 
@@ -15,3 +17,7 @@ _____________
 Mode Black
 
 <img width="990" height="564" alt="Screenshot 2026-02-17 at 11 21 35 AM" src="https://github.com/user-attachments/assets/258cb9a0-b3f0-46df-bcff-5d519479a671" />
+
+
+
+🎥 [Take a look here](https://www.youtube.com/watch?v=oGC8QNRPnyY)
